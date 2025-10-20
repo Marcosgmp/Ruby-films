@@ -1,0 +1,109 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "search": "Search",
+    "filter": "Filter",
+    "actions": "Actions",
+    "confirm": "Confirm",
+    "back": "Back",
+    "next": "Next"
+  },
+  "header": {
+    "title": "Ruby Films",
+    "home": "Home",
+    "movies": "Movies",
+    "categories": "Categories",
+    "login": "Login",
+    "register": "Register",
+    "profile": "Profile",
+    "logout": "Logout",
+    "search_placeholder": "Search movies..."
+  },
+  "home": {
+    "hero_description": "Explore our movie collection, discover new stories and share your opinions.",
+    "search_placeholder": "Search by name...",
+    "category_filter": "Category",
+    "all_categories": "All",
+    "clear_search": "Clear search",
+    "search_results": "Search Results",
+    "recently_added": "Recently Added",
+    "most_searched": "Most Searched",
+    "no_movies_message": "No movies found. Be the first to add!",
+    "search_error": "Error searching movies"
+  },
+  "movies": {
+    "title": "Movie Catalog",
+    "add_movie": "Add Movie",
+    "edit_movie": "Edit Movie",
+    "synopsis": "Synopsis",
+    "director": "Director",
+    "release_year": "Release Year",
+    "rating": "Rating",
+    "duration": "Duration",
+    "duration_minutes": "{{count}} min",
+    "add_to_favorites": "Add to Favorites",
+    "remove_from_favorites": "Remove from Favorites",
+    "comments": "Comments",
+    "no_movies": "No movies found",
+    "no_movies_found": "No movies found for your search.",
+    "watch_trailer": "Watch Trailer",
+    "cast": "Cast",
+    "genre": "Genre"
+  },
+  "categories": {
+    "action": "Action",
+    "comedy": "Comedy",
+    "drama": "Drama",
+    "sci_fi": "Science Fiction",
+    "horror": "Horror",
+    "romance": "Romance",
+    "animation": "Animation"
+  },
+  "comments": {
+    "title": "Comments",
+    "add_comment": "Add Comment",
+    "your_comment": "Your comment",
+    "post_comment": "Post Comment",
+    "no_comments": "Be the first to comment",
+    "edit_comment": "Edit Comment",
+    "delete_comment": "Delete Comment",
+    "comment_placeholder": "Write your comment..."
+  },
+  "auth": {
+    "login_title": "Login to Your Account",
+    "register_title": "Create New Account",
+    "email": "Email",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "name": "Name",
+    "remember_me": "Remember me",
+    "forgot_password": "Forgot password?",
+    "no_account": "Don't have an account?",
+    "has_account": "Already have an account?",
+    "sign_up": "Sign Up",
+    "sign_in": "Sign In",
+    "logout_success": "Logout successful"
+  },
+  "errors": {
+    "required": "This field is required",
+    "invalid_email": "Invalid email",
+    "min_length": "Minimum {{count}} characters",
+    "passwords_dont_match": "Passwords don't match",
+    "network_error": "Network error",
+    "unauthorized": "Unauthorized access",
+    "not_found": "Resource not found",
+    "server_error": "Internal server error"
+  },
+  "language": {
+    "portuguese": "Portuguese",
+    "english": "English",
+    "spanish": "Spanish",
+    "french": "French"
+  }
+}

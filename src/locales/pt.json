@@ -1,0 +1,109 @@
+{
+  "common": {
+    "loading": "Carregando...",
+    "error": "Erro",
+    "success": "Sucesso",
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "delete": "Excluir",
+    "edit": "Editar",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "actions": "Ações",
+    "confirm": "Confirmar",
+    "back": "Voltar",
+    "next": "Próximo"
+  },
+  "header": {
+    "title": "Ruby Films",
+    "home": "Início",
+    "movies": "Filmes",
+    "categories": "Categorias",
+    "login": "Entrar",
+    "register": "Cadastrar",
+    "profile": "Perfil",
+    "logout": "Sair",
+    "search_placeholder": "Buscar filmes..."
+  },
+  "home": {
+    "hero_description": "Explore nossa coleção de filmes, descubra novas histórias e compartilhe suas opiniões.",
+    "search_placeholder": "Pesquisar por nome...",
+    "category_filter": "Categoria",
+    "all_categories": "Todas",
+    "clear_search": "Limpar pesquisa",
+    "search_results": "Resultados da Pesquisa",
+    "recently_added": "Adicionados Recentemente",
+    "most_searched": "Mais Pesquisados",
+    "no_movies_message": "Nenhum filme encontrado. Seja o primeiro a adicionar!",
+    "search_error": "Erro ao pesquisar filmes"
+  },
+  "movies": {
+    "title": "Catálogo de Filmes",
+    "add_movie": "Adicionar Filme",
+    "edit_movie": "Editar Filme",
+    "synopsis": "Sinopse",
+    "director": "Diretor",
+    "release_year": "Ano de Lançamento",
+    "rating": "Avaliação",
+    "duration": "Duração",
+    "duration_minutes": "{{count}} min",
+    "add_to_favorites": "Adicionar aos Favoritos",
+    "remove_from_favorites": "Remover dos Favoritos",
+    "comments": "Comentários",
+    "no_movies": "Nenhum filme encontrado",
+    "no_movies_found": "Nenhum filme encontrado para sua pesquisa.",
+    "watch_trailer": "Ver Trailer",
+    "cast": "Elenco",
+    "genre": "Gênero"
+  },
+  "categories": {
+    "action": "Ação",
+    "comedy": "Comédia",
+    "drama": "Drama",
+    "sci_fi": "Ficção Científica",
+    "horror": "Terror",
+    "romance": "Romance",
+    "animation": "Animação"
+  },
+  "comments": {
+    "title": "Comentários",
+    "add_comment": "Adicionar Comentário",
+    "your_comment": "Seu comentário",
+    "post_comment": "Publicar Comentário",
+    "no_comments": "Seja o primeiro a comentar",
+    "edit_comment": "Editar Comentário",
+    "delete_comment": "Excluir Comentário",
+    "comment_placeholder": "Escreva seu comentário..."
+  },
+  "auth": {
+    "login_title": "Entrar na Sua Conta",
+    "register_title": "Criar Nova Conta",
+    "email": "E-mail",
+    "password": "Senha",
+    "confirm_password": "Confirmar Senha",
+    "name": "Nome",
+    "remember_me": "Lembrar de mim",
+    "forgot_password": "Esqueceu a senha?",
+    "no_account": "Não tem uma conta?",
+    "has_account": "Já tem uma conta?",
+    "sign_up": "Cadastrar",
+    "sign_in": "Entrar",
+    "logout_success": "Logout realizado com sucesso"
+  },
+  "errors": {
+    "required": "Este campo é obrigatório",
+    "invalid_email": "E-mail inválido",
+    "min_length": "Mínimo de {{count}} caracteres",
+    "passwords_dont_match": "As senhas não coincidem",
+    "network_error": "Erro de conexão",
+    "unauthorized": "Acesso não autorizado",
+    "not_found": "Recurso não encontrado",
+    "server_error": "Erro interno do servidor"
+  },
+  "language": {
+    "portuguese": "Português",
+    "english": "Inglês",
+    "spanish": "Espanhol",
+    "french": "Francês"
+  }
+}

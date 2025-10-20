@@ -1,0 +1,109 @@
+{
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "save": "Sauvegarder",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "actions": "Actions",
+    "confirm": "Confirmer",
+    "back": "Retour",
+    "next": "Suivant"
+  },
+  "header": {
+    "title": "Ruby Films",
+    "home": "Accueil",
+    "movies": "Films",
+    "categories": "Catégories",
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "profile": "Profil",
+    "logout": "Déconnexion",
+    "search_placeholder": "Rechercher des films..."
+  },
+  "home": {
+    "hero_description": "Explorez notre collection de films, découvrez de nouvelles histoires et partagez vos opinions.",
+    "search_placeholder": "Rechercher par nom...",
+    "category_filter": "Catégorie",
+    "all_categories": "Toutes",
+    "clear_search": "Effacer la recherche",
+    "search_results": "Résultats de Recherche",
+    "recently_added": "Ajoutés Récemment",
+    "most_searched": "Plus Recherchés",
+    "no_movies_message": "Aucun film trouvé. Soyez le premier à ajouter !",
+    "search_error": "Erreur lors de la recherche de films"
+  },
+  "movies": {
+    "title": "Catalogue de Films",
+    "add_movie": "Ajouter un Film",
+    "edit_movie": "Modifier le Film",
+    "synopsis": "Synopsis",
+    "director": "Réalisateur",
+    "release_year": "Année de Sortie",
+    "rating": "Note",
+    "duration": "Durée",
+    "duration_minutes": "{{count}} min",
+    "add_to_favorites": "Ajouter aux Favoris",
+    "remove_from_favorites": "Retirer des Favoris",
+    "comments": "Commentaires",
+    "no_movies": "Aucun film trouvé",
+    "no_movies_found": "Aucun film trouvé pour votre recherche.",
+    "watch_trailer": "Voir la Bande-annonce",
+    "cast": "Distribution",
+    "genre": "Genre"
+  },
+  "categories": {
+    "action": "Action",
+    "comedy": "Comédie",
+    "drama": "Drame",
+    "sci_fi": "Science-Fiction",
+    "horror": "Horreur",
+    "romance": "Romance",
+    "animation": "Animation"
+  },
+  "comments": {
+    "title": "Commentaires",
+    "add_comment": "Ajouter un Commentaire",
+    "your_comment": "Votre commentaire",
+    "post_comment": "Publier le Commentaire",
+    "no_comments": "Soyez le premier à commenter",
+    "edit_comment": "Modifier le Commentaire",
+    "delete_comment": "Supprimer le Commentaire",
+    "comment_placeholder": "Écrivez votre commentaire..."
+  },
+  "auth": {
+    "login_title": "Connectez-vous à Votre Compte",
+    "register_title": "Créer un Nouveau Compte",
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "confirm_password": "Confirmer le Mot de passe",
+    "name": "Nom",
+    "remember_me": "Se souvenir de moi",
+    "forgot_password": "Mot de passe oublié ?",
+    "no_account": "Vous n'avez pas de compte ?",
+    "has_account": "Vous avez déjà un compte ?",
+    "sign_up": "S'inscrire",
+    "sign_in": "Se Connecter",
+    "logout_success": "Déconnexion réussie"
+  },
+  "errors": {
+    "required": "Ce champ est obligatoire",
+    "invalid_email": "E-mail invalide",
+    "min_length": "Minimum {{count}} caractères",
+    "passwords_dont_match": "Les mots de passe ne correspondent pas",
+    "network_error": "Erreur de connexion",
+    "unauthorized": "Accès non autorisé",
+    "not_found": "Ressource non trouvée",
+    "server_error": "Erreur interne du serveur"
+  },
+  "language": {
+    "portuguese": "Portugais",
+    "english": "Anglais",
+    "spanish": "Espagnol",
+    "french": "Français"
+  }
+}
