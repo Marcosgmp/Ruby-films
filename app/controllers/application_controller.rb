@@ -1,15 +1,12 @@
 class ApplicationController < ActionController::API
   include ActionController::MimeResponds
   
-  # Configuração para responder com JSON por padrão
   respond_to :json
 
-  # Rescue de erros comuns
   rescue_from ActiveRecord::RecordNotFound, with: :record_not_found
   rescue_from ActiveRecord::RecordInvalid, with: :record_invalid
   rescue_from ActionController::ParameterMissing, with: :parameter_missing
 
-  # Métodos úteis para respostas JSON
   def render_success(data = {}, status = :ok)
     render json: { success: true, data: data }, status: status
   end

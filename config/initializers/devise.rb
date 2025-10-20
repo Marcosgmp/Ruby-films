@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 Devise.setup do |config|
   config.mailer_sender = 'please-change-me-at-config-initializers-devise@example.com'
   
@@ -16,6 +14,6 @@ Devise.setup do |config|
   config.reset_password_within = 6.hours
   config.sign_out_via = :delete
   
-  # Configurações para API
+
   config.navigational_formats = []
 end

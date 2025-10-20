@@ -2,6 +2,7 @@
 *.sassc
 log/
 tmp/
+test/
 *.swp
 *.bak
 *.pid
@@ -72,3 +73,5 @@ Thumbs.db
 *.swp
 *.swo
 *~
+
+db/seeds.rb
